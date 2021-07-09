@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, github-workflow-oracle-cloud-functions, http-client, java, java-application, jdbc-hikari, junit, maven, openapi, oracle, oracle-cloud-sdk, oracle-function, oracle-function-http, readme, shade, slf4j-simple, testcontainers, yaml]
